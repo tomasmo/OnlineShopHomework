@@ -5,7 +5,7 @@ import java.io.*;
 public class DrinksPage {
     Drinks[] allDrinks = new Drinks[5];
     public static void showMenu() {
-        int fantaquantity = 1000;
+        int fantaquantity = 999;
         int merindaquantity = 1100;
         int spritequantity = 1200;
         int schweppesuantity = 1300;
